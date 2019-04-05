@@ -56,4 +56,5 @@ class App extends Component {
   }
 }
 
+//deployed to heroku afterwards
 export default App;
